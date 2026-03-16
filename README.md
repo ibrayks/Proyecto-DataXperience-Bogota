@@ -23,15 +23,11 @@ Demostrar habilidades en ciencia de datos aplicadas a un problema real: entender
    - Regresión Lineal: R² ≈ 0.35 (explica 35% con Área, Habitaciones, Baños).  
    - Coeficientes: Área (+6.65M por m²), Baños (+352M por unidad).
 
-## Cómo ejecutar
-1. Abre el notebook en Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU-USUARIO/Proyecto-DataXperience-Bogota/blob/main/Proyecto_DataXperience.ipynb)
-2. Sube el CSV limpio o usa el link de Kaggle.
-
 ## Aprendizaje y Aplicación Profesional
 Aprendí manejo de datos reales, interpretación estadística y modelado simple. En mi carrera [tu carrera], lo usaría para dashboards de precios inmobiliarios, predicciones para inversionistas o análisis de riesgo en finanzas.
 
 ## Video de Presentación
-[Enlace al video en YouTube o Google Drive] (duración: ~4 min)
+[.]
 
 ¡Gracias por ver! Feedback bienvenido. 🚀
 
