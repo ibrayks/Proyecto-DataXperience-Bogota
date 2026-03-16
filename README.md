@@ -1,7 +1,5 @@
 # Proyecto Final DataXperience: Análisis del Mercado Inmobiliario en Bogotá
 
-![Portada](evidencias/portada.jpg)  <!-- Si subes una imagen de portada o captura principal -->
-
 Análisis completo de datos inmobiliarios en Bogotá usando Python, pandas, seaborn y scikit-learn. Incluye limpieza, EDA, estadísticas descriptivas, visualizaciones y un modelo de regresión lineal para predecir precios.
 
 ## Objetivo
